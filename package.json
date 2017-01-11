@@ -23,6 +23,11 @@
   },
   "homepage": "https://github.com/arsenghazaryan/native-ui#readme",
   "dependencies": {
-    "color": "^1.0.3"
+    "color": "^1.0.3",
+    "deep-assign": "^2.0.0"
+  },
+  "devDependencies": {
+    "babel-preset-react-native": "^1.9.1",
+    "react": "^15.4.2"
   }
 }
